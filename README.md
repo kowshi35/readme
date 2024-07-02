@@ -1,4 +1,4 @@
-![image](https://github.com/kowshi35/readme/assets/174421276/6c7c8319-e7c5-4878-8aa9-18137f1b5b07)<h1 align="center">Hi 👋, I'm Jogendra Nath Roy Chayan</h1>
+<h1 align="center">Hi 👋, I'm Jogendra Nath Roy Chayan</h1>
 <h3 align="center"> CSE Student at Bangladesh Army University of Science and Technology </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
