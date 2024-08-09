@@ -3,9 +3,10 @@
 
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JNRCHAYAN" alt="JNRCHAYAN" /></a> </p>
+<p align="left"> 
+ <a href="https://github-profile-trophy.vercel.app/?username=JNRCHAYAN&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience&theme=onedark" alt="JNRCHAYAN" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JNRCHAYAN&show_icons=true&locale=en&layout=compact" alt="JNRCHAYAN" /></p> <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=JNRCHAYAN&show_icons=true&locale=en" alt="JNRCHAYAN" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JNRCHAYAN&" alt="JNRCHAYAN" /></p>
