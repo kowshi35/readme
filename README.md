@@ -8,9 +8,7 @@
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=poppins&color=blue&size=25&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=App+Development;Artificial+Intelligence;Machine+Learning;Photography;Content+Creator;" width="auto" height="35"/>
 </p>
-
-<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
-
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/line-neon.gif" width="100%"> 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
 
 <b>My GitHub Stats-> </b>
