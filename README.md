@@ -15,6 +15,14 @@
 </p>
 
 <p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dqwe223&theme=radical&border=7F3FBF&background=0D1117" alt="Iruka's GitHub streak"/>
+  </a>
+</p>
+
+
+
+<p align="center">
   <a href="https://github.com/JNRCHAYAN">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JNRCHAYAN&theme=radical" alt="JNRCHAYAN GitHub Contribution"/>
   </a>
