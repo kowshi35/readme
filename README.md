@@ -4,7 +4,7 @@
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
-<p align="center"> 
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=JNRCHAYAN&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JNRCHAYAN&show_icons=true&locale=en&layout=compact" alt="JNRCHAYAN" /></p> <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=JNRCHAYAN&show_icons=true&locale=en" alt="JNRCHAYAN" /></p> 
