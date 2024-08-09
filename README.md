@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jogendra Nath Roy Chayan</h1>
 <h3 align="center"> CSE Student at Bangladesh Army University of Science and Technology </h3>
 
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JNRCHAYAN" alt="JNRCHAYAN" /></a> </p>
@@ -20,6 +22,7 @@
 </p>
 
 
+ <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
  
 ## MY SKILLS & TOOLS
 
@@ -34,3 +37,4 @@
 | Additional Skill | Linux, Git, Github, Arduino | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="30" height="30"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="Github" width="30" height="30"/>  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30"/>                                                                                                                          |
 
 
+<img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
