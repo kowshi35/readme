@@ -1,14 +1,12 @@
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23000000&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi+👋,+I'm+Jogendra+Nath+Roy+Chayan" width="1850" height="40"/>
-</p>
+<h1 align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto&color=%23000000&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi+👋+I'm;Jogendra+Nath+Roy+Chayan" width="1850" height="40"/>
+</h1>
 
-
-<h1 align="center">Hi 👋, I'm Jogendra Nath Roy Chayan</h1>
-<h3 align="center"> CSE Student at Bangladesh Army University of Science and Technology </h3>
+<h3 align="center"> CSE Student at Bangladesh Army University of Science and Technology, Bangladesh </h3>
 
 <h3 align="center">My interests</h3>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=poppins&color=blue&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=App+Development;Artificial+Intelligence;Machine+Learning;Photography;Content+Creator;" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=poppins&color=blue&size=25&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=App+Development;Artificial+Intelligence;Machine+Learning;Photography;Content+Creator;" width="auto" height="35"/>
 </p>
 
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
