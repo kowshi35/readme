@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jogendra Nath Roy Chayan</h1>
 <h3 align="center"> CSE Student at Bangladesh Army University of Science and Technology </h3>
 
+<h3 align="center">My interests</h3>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=poppins&color=blue&size=30&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=App+Development;Artificial+Intelligence;Machine+Learning;Photography;Content+Creator;" width="auto" height="35"/>
+</p>
+
 <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
@@ -15,8 +20,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alsiam">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dqwe223&theme=radical&border=7F3FBF&background=0D1117" alt="Iruka's GitHub streak"/>
+  <a href="https://github.com/JNRCHAYAN">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=JNRCHAYAN&theme=radical&border=7F3FBF&background=0D1117" alt="Iruka's GitHub streak"/>
   </a>
 </p>
 
@@ -28,12 +33,14 @@
   </a>
 </p>
 
+<a> 
+    <a href="https://github.com/JNRCHAYAN"><img alt="JNRCHAYAN Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=JNRCHAYAN&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/JNRCHAYAN"><img alt="JNRCHAYAN Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=JNRCHAYAN&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JNRCHAYAN&show_icons=true&locale=en&layout=compact" alt="JNRCHAYAN" /></p> <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=JNRCHAYAN&show_icons=true&locale=en" alt="JNRCHAYAN" /></p> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JNRCHAYAN&" alt="JNRCHAYAN" /></p>
 
-- 📫 How to reach me **jnrchayan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +51,7 @@
 <a href="https://www.youtube.com/techtid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Techtid" height="30" width="40" /></a>
 </p>
 
+📫 How to reach me **jnrchayan@gmail.com**
 
  <img src="https://raw.githubusercontent.com/dqwe223/dqwe223/main/gif/wline.gif?raw=true">
  
