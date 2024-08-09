@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/JNRCHAYAN">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JNRCHAYAN&theme=radical" alt="Iruka's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JNRCHAYAN&theme=radical" alt="JNRCHAYAN GitHub Contribution"/>
   </a>
 </p>
 
