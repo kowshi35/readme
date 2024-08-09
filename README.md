@@ -5,6 +5,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
 
+<b>My GitHub Stats-> </b>
+
 <p align="center">
   <a href="https://github.com/JNRCHAYAN">
     <img src="https://github-profile-trophy.vercel.app/?username=JNRCHAYAN&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience&theme=onedark&margin-w=15&margin-h=10" alt="JNRCHAYAN GitHub Contribution"/>
