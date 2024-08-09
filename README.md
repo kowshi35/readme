@@ -6,6 +6,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
 
 <b>My GitHub Stats-> </b>
+<p></p>
 
 <p align="center">
   <a href="https://github.com/JNRCHAYAN">
