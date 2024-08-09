@@ -1,3 +1,8 @@
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23000000&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Hi+👋,+I'm+Jogendra+Nath+Roy+Chayan" width="1850" height="40"/>
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Jogendra Nath Roy Chayan</h1>
 <h3 align="center"> CSE Student at Bangladesh Army University of Science and Technology </h3>
 
