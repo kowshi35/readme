@@ -5,13 +5,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=JNRCHAYAN&label=Profile%20views&color=0e75b6&style=flat" alt="JNRCHAYAN" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JNRCHAYAN&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience&theme=onedark&margin-w=15&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy) 
+<p align="center">
+  <a href="https://github.com/JNRCHAYAN">
+    <img src="https://github-profile-trophy.vercel.app/?username=JNRCHAYAN&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Experience&theme=onedark&margin-w=15&margin-h=10" alt="JNRCHAYAN GitHub Contribution"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/JNRCHAYAN">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JNRCHAYAN&theme=radical" alt="JNRCHAYAN GitHub Contribution"/>
   </a>
 </p>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JNRCHAYAN&show_icons=true&locale=en&layout=compact" alt="JNRCHAYAN" /></p> <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=JNRCHAYAN&show_icons=true&locale=en" alt="JNRCHAYAN" /></p> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JNRCHAYAN&" alt="JNRCHAYAN" /></p>
